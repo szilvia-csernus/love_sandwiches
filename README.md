@@ -5,9 +5,6 @@ This basic python CLI project was created by following [Anna Greaves](https://ww
 
 * python
 * GOOGLE Sheets API
-* HTML
-* CSS
-* JavaScript
 
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
